@@ -1,0 +1,18 @@
+.env/
+
+**/.ipynb_checkpoints/
+
+./kaggle.json
+
+kaggle.json
+
+data
+qdrant_data
+
+# ignore all __pycache__ directories
+**/__pycache__/
+
+.DS_Store
+
+
+
